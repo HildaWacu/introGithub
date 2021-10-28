@@ -29,6 +29,24 @@ This is an image of Pwani Buniversity building ![image](https://user-images.gith
 
 you could also drag and drop and image
 
-5. how to bold, italicise, underline
+5. how to bold, italicise, underline, strikethrough, both italicise and and bold
+
 *Github*
-**Github
+
+**Github**
+
+_Github_
+
+__Github__
+
+~Github~
+
+~~Github~~
+
+___Github___
+
+***Github***
+
+
+
+
