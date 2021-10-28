@@ -47,6 +47,41 @@ ___Github___
 
 ***Github***
 
+6. how to makw a list
 
+1. oranges
+2. bananas
+3. avocadoes
+4. passion
 
+2. bananas
+4. passion
+1. oranges
+3. avocadoes
+
+(ii) bananas
+(iv) passion
+(i) oranges
+(iii) avocadoes
+
+1. Wilson
+- drinks
+- beach
+- movies
+- music
+2. Hilda
+- read a research paper
+- hydrate
+- meditate
+* watch The Good Doctor
+* go cycling
+* 
+<u> go cycling </u>
+
+7. **how to add an emoji**
+
+:tada:
+:smile:
+:wave:
+:cupid:
 
