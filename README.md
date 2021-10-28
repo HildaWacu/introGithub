@@ -1,3 +1,5 @@
+1. **how to write titles, headings and subheadings**
+
 # introGithub
 ## level 2 intro to Github
 ### level 3 intro to Github
@@ -5,6 +7,7 @@
 ##### level 5 into to Github
 ###### level 6 into to Github
 
+2. **how to write titles, headings and subheadings using HTML tags**
 <h1> level 1 introGithub </h1>
 <h2> level 2 introGithub </h2>
 <h3> level 3 introGithub </h3>
@@ -15,7 +18,8 @@
 
 This is an introduction to Github.
 <p> this is an intorduction to Github (using the HTMM tag) </p>
-3. how to put the link
+
+3. **how to put the link**
 
 This is an introduction to Github at [Pwani University](https://pu.ac.ke/index.php/en/ "this is a hover description to the hyperlink")
 
@@ -23,13 +27,13 @@ This is an introduction to Github at [Pwani University](https://www.pu.ac.ke/ind
 
 This is an introduction to Github at [Pwani University](www.pu.ac.ke/index.php/en/ "this is a hover description to the hyperlink") <- the relative link
 
-4. how to put embed an image <- use an exclamation mark
+4. **how to put embed an image <- use an exclamation mark**
 
 This is an image of Pwani Buniversity building ![image](https://user-images.githubusercontent.com/92791355/139224788-075290ed-f0b4-4314-888c-54913bf6ba7e.png)
 
 you could also drag and drop and image
 
-5. how to bold, italicise, underline, strikethrough, both italicise and and bold
+5. **how to bold, italicise, underline, strikethrough, both italicise and and bold**
 
 *Github*
 
@@ -47,12 +51,16 @@ ___Github___
 
 ***Github***
 
-6. how to makw a list
+6. **how to make a list**
+
+see below an example of an ordered list
 
 1. oranges
 2. bananas
 3. avocadoes
 4. passion
+
+see below how a list arranged with the numbers not following each other gets ordered automatically, but starting from the first number of the list
 
 2. bananas
 4. passion
