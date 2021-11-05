@@ -17,7 +17,7 @@
 
 
 This is an introduction to Github.
-<p> this is an intorduction to Github (using the HTMM tag) </p>
+<p> this is an intorduction to Github (using the HTML tag) </p>
 
 3. **how to put the link**
 
@@ -83,7 +83,6 @@ see below how a list arranged with the numbers not following each other gets ord
 - meditate
 * watch The Good Doctor
 * go cycling
-* 
 <u> go cycling </u>
 
 7. **how to add an emoji**
@@ -92,4 +91,4 @@ see below how a list arranged with the numbers not following each other gets ord
 :smile:
 :wave:
 :cupid:
-
+:+1:
