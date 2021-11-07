@@ -2,15 +2,18 @@
 
 This file contains a brief introduction to Github session, attended on the 26.10.2021
 
-1. **how to write titles, headings and subheadings**
+1. **how to write titles, headings and subheadings, and underline**
 
 # introGithub
 ## level 2 intro to Github
 ### level 3 intro to Github
+---
 #### level 4 intro to Github
+---
 ##### level 5 into to Github
+---
 ###### level 6 into to Github
-
+---
 2. **how to write titles, headings and subheadings using HTML tags**
 <h1> level 1 introGithub </h1>
 <h2> level 2 introGithub </h2>
