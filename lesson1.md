@@ -99,3 +99,34 @@ see below how a list arranged with the numbers not following each other gets ord
 :wave:
 :cupid:
 :+1:
+
+8. **how to make tables**
+
+|ID|Name|Contact details|
+|---|---|---|
+|SG03/PU/36___/21 |John Smith |0712 345 678|
+|SG03/PU/36___/21 |Jay Bond |0798 765 432
+|SG03/PU/36___/21 |S. Smith |0700 000 000|
+|SG03/PU/36___/21 |L. Gaga |0707 000 000|
+
+|ID|Name|Contact details|
+|---|:---|---|
+|SG03/PU/36___/21|John Smith |0712 345 678|
+|SG03/PU/36___/21|Jay Bond |0798 765 432
+|SG03/PU/36___/21|S. Smith |0700 000 000|
+|SG03/PU/36___/21|L. Gaga |0707 000 000|
+
+|ID|Name|Contact details|
+|---|---:|---|
+|SG03/PU/36___/21|John Smith |0712 345 678|
+|SG03/PU/36___/21|Jay Bond |0798 765 432
+|SG03/PU/36___/21|S. Smith |0700 000 000|
+|SG03/PU/36___/21|L. Gaga |0707 000 000|
+
+
+|ID|Name|Contact details|
+|---|:---:|---|
+|SG03/PU/36___/21|John Smith |0712 345 678|
+|SG03/PU/36___/21|Jay Bond |0798 765 432
+|SG03/PU/36___/21|S. Smith |0700 000 000|
+|SG03/PU/36___/21|L. Gaga |0707 000 000|
