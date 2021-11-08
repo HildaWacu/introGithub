@@ -9,3 +9,4 @@ New to Github, I have got to learn how to do the following using the Github mark
 5. **how to bold, italicise, underline, strikethrough, both italicise and and bold**
 6. **how to make a list**
 7. **how to add an emoji**
+8. **how to make tables**
